@@ -13,7 +13,7 @@
  *  for the specific language governing permissions and limitations under the License.
  *
  *  Version History:
- *  1.6 Added the ability to have the Audio Notification (AEON Labs Doorbell) play only once in a time period for door openings or any other trigger, this has been tested with contact sensors, light switches, motion, presence, and illuminance so far
+ *  1.6 Added the ability to have the Audio Notification (AEON Labs Doorbell) play only once in a time period for door openings or any other trigger, this has been tested with contact sensors, light switches, motion, presence, and illuminance so far.
  *  1.5 Beta
  *		Added the ability to turn a light on via a switch on, motion active, contact open, or button pushed/held and have it turn off after a specified amount of time
  *			If a light was already on before the event happened the light will remain on after the timer period finishes,
